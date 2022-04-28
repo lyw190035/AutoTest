@@ -15,7 +15,9 @@
                 <property name="username" value="root"/>
                 <!-- 数据库密码... -->
                 <property name="password" value="123456"/>
+
             </dataSource>
+
         </environment>
     </environments>
     <!-- 注册映射文件：java对象与数据库之间的xml文件路径！ -->
